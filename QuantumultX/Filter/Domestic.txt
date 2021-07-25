@@ -351,6 +351,7 @@ host-suffix, qyerstatic.com, Domestic
 host-suffix, raychase.net, Domestic
 host-suffix, ronghub.com, Domestic
 host-suffix, ruguoapp.com, Domestic
+host-suffix, renrenchongdian.com, Domestic
 host-suffix, s-reader.com, Domestic
 host-suffix, sankuai.com, Domestic
 host-suffix, seafile.com, Domestic
